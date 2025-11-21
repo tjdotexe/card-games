@@ -1,2 +1,2 @@
-# ninety-nine-go
-A terminal card game
+# card-games
+Terminal card games
