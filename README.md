@@ -1,2 +1,2 @@
-# card-games
+# Card games
 Terminal card games
